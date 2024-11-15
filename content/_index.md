@@ -97,23 +97,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Best graduate student at the Faculty of Computer Science and Telecommunications of Wroclaw University of Technology
+        - title: Best graduate student at the Faculty of Information and Communication Technology of Wroclaw University of Technology
           # certificate_url: https://www.gov.pl/web/nauka/ogloszenie-wynikow-postepowania-w-sprawie-przyznania-stypendiow-ministra-nauki-dla-studentow-na-rok-akademicki-20232024
           date_end: ''
           date_start: '2024-10-12'
           description:
           icon: wust
-          organization: Faculty of Computer Science and Telecommunications of Wroclaw University of Technology
+          organization: Faculty of Information and Communication Technology of Wroclaw University of Technology
           organization_url: https://wit.pwr.edu.pl/en/
           description: I was named the best graduate student of 2024 at the faculty. 
 
-        - title: Best master thesis defended at the Faculty of Computer Science and Telecommunications of Wroclaw University of Technology
+        - title: Best master thesis defended at the Faculty of Information and Communication Technology of Wroclaw University of Technology
           # certificate_url: https://www.gov.pl/web/nauka/ogloszenie-wynikow-postepowania-w-sprawie-przyznania-stypendiow-ministra-nauki-dla-studentow-na-rok-akademicki-20232024
           date_end: ''
           date_start: '2024-09-01'
           description:
           icon: wust
-          organization: Faculty of Computer Science and Telecommunications of Wroclaw University of Technology
+          organization: Faculty of Information and Communication Technology of Wroclaw University of Technology
           organization_url: https://wit.pwr.edu.pl/en/
           description: My master's thesis, “Diffusion Probabilistic Models For Denoising Micrographs in Cryogenic Electron Microscopy,” was named the best defended 2024 in the faculty. 
 
