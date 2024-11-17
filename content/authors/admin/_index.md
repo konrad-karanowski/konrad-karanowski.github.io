@@ -137,5 +137,5 @@ highlight_name: true
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am a machine learning engineer and researcher from Wroclaw. My main research areas are computer vision, generative AI and AI in biochemistry. I am member of the [genwro.ai](https://genwro.ai.pwr.edu.pl) research group under the supervision of Prof. Maciej Zięba and a machine learning researcher at [Tooploox](https://tooploox.com). 
+I am a machine learning engineer and researcher from Wroclaw. My main research interests are computer vision, generative AI and AI for science. I am member of the [genwro.ai](https://genwro.ai.pwr.edu.pl) research group under the supervision of Prof. Maciej Zięba and a machine learning researcher at [Tooploox](https://tooploox.com). 
 {style="text-align: justify;"}
