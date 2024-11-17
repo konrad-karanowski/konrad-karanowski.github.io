@@ -30,8 +30,7 @@ bio: Machine Learning Researcher focused on computer vision, generative models a
 interests:
   - Computer Vision
   - Generative Models
-  - AI in Biochemistry
-  - AI in Medicine
+  - AI for Science
 
 # Education to show in About widget
 education:
