@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Konrad Karanowski</title>
+    <link>https://konrad-karanowski.com/tag/computer-vision/</link>
+      <atom:link href="https://konrad-karanowski.com/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://konrad-karanowski.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Vision</title>
+      <link>https://konrad-karanowski.com/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Counteracting Data Bias and Class Imbalance—Towards a Useful and Reliable Retinal Disease Recognition System</title>
+      <link>https://konrad-karanowski.com/publication/2023retina/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2023retina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The general framework for few-shot learning by kernel HyperNetworks</title>
+      <link>https://konrad-karanowski.com/publication/2023general-few-shot/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2023general-few-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Data Generation for Morphological Analyses of Histopathology Images with Deep Learning Models</title>
+      <link>https://konrad-karanowski.com/publication/2023vietnam/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2023vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Morphological Analysis of Histopathological Images Using Deep Learning</title>
+      <link>https://konrad-karanowski.com/publication/2022iccci/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2022iccci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual learning on 3D point clouds with random compressed rehearsal</title>
+      <link>https://konrad-karanowski.com/publication/2022continual/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2022continual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyperShot: Few-Shot Learning by Kernel HyperNetworks</title>
+      <link>https://konrad-karanowski.com/publication/2022hypershot/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2022hypershot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Morphological Analysis of Histopathological Images Using Deep Learning</title>
+      <link>https://konrad-karanowski.com/publication/2021iccci/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2021iccci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

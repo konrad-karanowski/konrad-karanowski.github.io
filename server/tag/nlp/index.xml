@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | Konrad Karanowski</title>
+    <link>https://konrad-karanowski.com/tag/nlp/</link>
+      <atom:link href="https://konrad-karanowski.com/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://konrad-karanowski.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>NLP</title>
+      <link>https://konrad-karanowski.com/tag/nlp/</link>
+    </image>
+    
+    <item>
+      <title>PALS: Personalized Active Learning for Subjective Tasks in NLP</title>
+      <link>https://konrad-karanowski.com/publication/2023pals/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2023pals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Uncertainty in Personalized Emotion Prediction with Normalizing Flows</title>
+      <link>https://konrad-karanowski.com/publication/2023flows/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2023flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-centered neural reasoning for subjective content processing: Hate speech, emotions, and humor</title>
+      <link>https://konrad-karanowski.com/publication/2023human-centered/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2023human-centered/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep-SHEEP: Sense of Humor Extraction from Embeddings in the Personalized Context</title>
+      <link>https://konrad-karanowski.com/publication/2022deep-sheep/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2022deep-sheep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What if Ground Truth is Subjective? Personalized Deep Neural Hate Speech Detection</title>
+      <link>https://konrad-karanowski.com/publication/2022what-if-ground/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://konrad-karanowski.com/publication/2022what-if-ground/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
